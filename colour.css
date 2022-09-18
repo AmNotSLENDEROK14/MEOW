@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#camera{
+    border: 5px;
+    border-style: double;
+    width: 400px;
+    height: 300px;
+}
